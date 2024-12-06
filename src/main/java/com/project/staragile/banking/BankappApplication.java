@@ -1,13 +1,13 @@
-package com.project.staragile.banking;
+package com.example.bankapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BankingApplication {
+public class BankappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BankingApplication.class, args);
+		SpringApplication.run(BankappApplication.class, args);
 	}
 
 }
